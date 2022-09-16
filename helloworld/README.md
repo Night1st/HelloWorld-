@@ -1,16 +1,13 @@
-# helloworld
+# Nhóm 10 - INT3020 40
+# Thành viên
+### - Vương Vũ Đức Hoàng
+### - Ngô Đức Mạnh
+### - Nguyễn Duy Đức Khoa
 
-A new Flutter project.
+# Báo cáo 
 
-## Getting Started
+# Tuần 02 - Chạy "Hello World"
++ Cài đặt Android Studio, Flutter, Chạy Hello World.
++ Ảnh chụp
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/58223975/190574370-a2f8eb69-ef81-42bb-a33c-fcda59f40acb.png)
