@@ -1,8 +1,8 @@
 # Nhóm 10 - INT3020 40
 # Thành viên
-### - Vương Vũ Đức Hoàng
-### - Ngô Đức Mạnh
-### - Nguyễn Duy Đức Khoa
+### - Vương Vũ Đức Hoàng - 19020098
+### - Ngô Đức Mạnh - 19020111
+### - Nguyễn Duy Đức Khoa - 19020105
 
 # Báo cáo 
 
