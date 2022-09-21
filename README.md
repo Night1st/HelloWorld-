@@ -10,4 +10,4 @@
 + Cài đặt Android Studio, Flutter, Chạy Hello World.
 + Ảnh chụp
 
-![image](https://user-images.githubusercontent.com/58223975/190574370-a2f8eb69-ef81-42bb-a33c-fcda59f40acb.png)
+![helloworld](https://user-images.githubusercontent.com/62580141/191534626-5adda994-4bbf-4692-8cea-18274f8e56ba.png)
