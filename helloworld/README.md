@@ -11,3 +11,8 @@
 + Ảnh chụp
 
 ![image](https://user-images.githubusercontent.com/58223975/190574370-a2f8eb69-ef81-42bb-a33c-fcda59f40acb.png)
+
+# Tuần 03 - Làm ứng dụng có giao diện sử dụng 5 loại điều khiển: Button, Navigation, TextInput, Modal, ListView
++ Ảnh chụp
+
+https://cdn.discordapp.com/attachments/1020955027319304229/1022755506244292629/groupPractice.gif
